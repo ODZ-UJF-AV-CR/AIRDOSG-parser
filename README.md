@@ -1,4 +1,4 @@
-# Paper---AIRDOS
-Paper about AIROS dosimeter
+# AIRDOS Parser
+Data parser for AIRDOS with GPS
 
-Generetion of graphs used in publication.
+Generetion of graphs of flux and absorbed dose in silicon.
